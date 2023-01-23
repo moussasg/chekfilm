@@ -18,8 +18,8 @@ export default function FilmForm({ Addfilm }) { // props jebnaha m home.jsx
 <label htmlFor="description">description</label>{/* description */}
 <input type="text" name="description"  value="" />
 <label htmlFor="category">category</label> {/* category */}
-				<input type="text" name="category"  value=""/>
-				<button type="submit">Add Car</button>
+	<input type="text" name="category"  value=""/>
+	<button type="submit">Add Car</button>
 			</form>
 		</div>
 	)
